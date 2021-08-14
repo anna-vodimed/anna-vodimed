@@ -1,4 +1,4 @@
-### Privet, Hello! 👋
+### Hello! 👋
 
 My name is Anna and I am a full-stack web developer.
 
