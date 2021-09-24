@@ -1,4 +1,4 @@
-### Hello, have a good day!🎉
+### Hello, have a nice day!🎉
 ![dance-dance-dance](https://github.com/black-tmin-oil/black-tmin-oil/blob/main/happy-boba-dancing.gif)
    
 ## 
