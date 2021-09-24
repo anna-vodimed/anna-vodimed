@@ -1,12 +1,4 @@
-### Hello! 👋
-
-My name is Anna and I am a full-stack web developer.
-
-- 🔭 I’m currently working on a website builder application
-- 🌱 I’m currently learning Typescript, Docker, backend patterns/arcitecture
-- 📫 How to reach me: ann.vodimed@gmail.com
-- 📝 My goal is to spend more time on open source contributions
-- ⚡ Fun fact: I'm a Google Code-in competition finalist
+### Hello, Just nice to see u, and have a good day!
    
 ## 💼 Skills
 
